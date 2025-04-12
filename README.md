@@ -7,8 +7,9 @@ Welcome to my **CSS Battle** solutions repository! Here, I upload my daily HTML/
 - Share my solutions with others who are learning or exploring creative ways to replicate target designs.  
 
 ## 🗂 Repository Structure  
-- **`/solutions`**: Solutions for CSS Battle challenges.  
-  - Organized day-wise with one solution per file.  
+- **Monthly basis folders**: Solutions for CSS Battle challenges.  
+  - Organized monthly-wise solutions for daily cssbattle challenges.
+  - For ex,. `\January`,`\February`,`\March` etc..  
 - **`/other-competitions`**: Solutions for other CSS/HTML-related competitions.  
 
 ## 🔥 How to Use  
